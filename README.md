@@ -3,6 +3,7 @@
 ## Documentación del Proyecto
  
 Nombre del estudiante:  Juan Diego Arturo
+
 ID: 000473366
 
 ## Ejercicio 1
