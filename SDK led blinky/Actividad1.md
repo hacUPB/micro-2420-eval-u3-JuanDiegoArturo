@@ -48,4 +48,4 @@ int main(void)
 }
 ```
 
-Se modifica el argumento de la función SysTick_DelayTicks(==200U==), en este caso, se usan 200 milisegundos, pero funciona para cualquier tiempo mayor a 0.
+Se modifica el argumento de la función SysTick_DelayTicks(200U), en este caso, se usan 200 milisegundos, pero funciona para cualquier tiempo mayor a 0.
