@@ -49,4 +49,12 @@ int main(void)
 - **4)** Los tiempos de encendido y apagado se calculan de la siguiente forma:
 
 ![ton](CodeCogsEqn.png)
+
 ![toff](CodeCogsEqn2.png)
+
+- **Funcionamiento:**
+
+![1](1.jpeg)
+Con Duty Cycle = 1
+![99](99.jpeg)
+Con Duty Cycle = 99
