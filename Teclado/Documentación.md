@@ -47,5 +47,6 @@ int main(void)
 - **2)** Se crearon las variables *DutyCycle* y *Dmax* de manera provisional para variar los parámetros de la señal PWM.
 - **3)** Se implementa el PWM de la siguiente forma: primero un delay con el tiempo de encendido, luego se apaga el led, luego hay otro delay con el tiempo de apagado y luego se enciende el led.
 - **4)** Los tiempos de encendido y apagado se calculan de la siguiente forma:
+
 ![ton](CodeCogsEqn.png)
 ![toff](CodeCogsEqn2.png)
